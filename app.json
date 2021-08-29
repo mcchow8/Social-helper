@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "fyp",
+    "slug": "fyp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SocialHelper_o.png",
+    "splash": {
+      "image": "./assets/Homepage.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
